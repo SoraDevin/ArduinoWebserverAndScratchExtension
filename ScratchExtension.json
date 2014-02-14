@@ -1,0 +1,14 @@
+{
+	"extensionName": "CEITTestExtension",
+	"extensionPort": 1880,
+	"useHTTP": true,
+	"blockSpecs": [
+		[" ", "test_led_on", "testLEDon"],
+		[" ", "test_led_off", "testLEDoff"],
+		["r", "test_led_state", "testLEDstate"],
+		[" ", "test_buzzer_on", "testBuzzerON"],
+		[" ", "test_buzzer_off", "testBuzzerOFF"]
+	]
+}
+
+ 
